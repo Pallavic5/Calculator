@@ -3,4 +3,3 @@ a=20 b=10 c=5
 sum=a+b+c
 sub=a-b-c
 mult=a*b
-div=a/b
